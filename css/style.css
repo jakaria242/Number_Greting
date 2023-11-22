@@ -1,0 +1,42 @@
+
+/* Number Gretning */
+
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+
+input{
+   padding: 20px;
+   outline: 0;
+   border: 2px solid rebeccapurple;
+   border-radius: 20px;
+   font-size: 22px;
+   font-weight: bold;
+   cursor: pointer;
+}
+button{
+    margin-top: 20px;
+    padding: 20px 40px;
+    font-size: 18px;
+    border: 2px solid white;
+    color: white;
+    background: #000;
+    border-radius: 10px;
+     cursor: pointer;
+}
+button:active{
+    background: red;
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+     cursor: pointer;
+
+}
+h1{
+    color: red;
+}
+/* Number Gretning */
